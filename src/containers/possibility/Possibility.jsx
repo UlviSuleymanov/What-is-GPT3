@@ -3,7 +3,9 @@ import './posibility.css'
 
 const Possibility = () => {
   return (
-    <div>Possibility</div>
+    <div className="">
+      
+    </div>
   )
 }
 
